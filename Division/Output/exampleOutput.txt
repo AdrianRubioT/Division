@@ -8,4 +8,4 @@ ciclo
 coeficiente
 resto + COMA si procede
 
-Terminado [motivo: resto repetido y desde que ciclo o resto 0 ]
+Terminado [motivo: resto repetido y desde que ciclo O resto 0 ]

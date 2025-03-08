@@ -1,5 +1,3 @@
 ciclo
 coeficiente ()
 resto
-
-probando integracion eclipse-github

@@ -1,3 +1,11 @@
+denominador original
+numerador original
+------------------------
+
+separador sera el retorno de carro
+
 ciclo
-coeficiente ()
-resto
+coeficiente
+resto + COMA si procede
+
+Terminado [motivo: resto repetido y desde que ciclo o resto 0 ]
